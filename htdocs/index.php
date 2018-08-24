@@ -4,3 +4,4 @@
 	echo "Hello Git!";
 	echo "Hello new branch!";
 	echo "Branch master";
+	echo "Branch master";
